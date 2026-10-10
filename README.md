@@ -4,6 +4,8 @@
 
 **在线演示（国内 CDN，秒开）**：https://data-d1g0rm7iwea98e9a9-1317260465.tcloudbaseapp.com/
 
+**本项目源代码**：[zhenyuanliu-pro/kingdee-data-cockpit](https://github.com/zhenyuanliu-pro/kingdee-data-cockpit) —— 增量同步引擎 / 签名客户端 / 指标计算 / 脱敏外发全链路（Node 零第三方依赖）
+
 ## 项目简介
 
 为一家多主体医疗器械销售集团（4 家关联公司）打造的经营数据驾驶舱：自动同步金蝶云星辰四账套业务数据（销售 / 退货 / 收款 / 未结清单据），在统计层抵销关联方内部交易虚增，聚焦「卖了多少、钱什么时候回来、哪些账有风险」三个经营核心问题。
